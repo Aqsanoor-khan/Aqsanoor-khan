@@ -1,111 +1,117 @@
-<div align="center"><!--HEADER--><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c5ce7,100:a29bfe&height=190&section=header&text=Aqsa%20Noor&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/><!--TYPING TEXT--><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%8C%90;Frontend+Development+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" /><br/><br/>
+<div align="center">
 
-<!--SOCIAL LINKS-->
-<a href="https://www.linkedin.com/in/aqsa-bibi101?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c5ce7,100:a29bfe&height=190&section=header&text=Aqsa%20Noor&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="Aqsa Noor header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%8C%90;Frontend+Development+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%F0%9F%8C%B1" alt="Typing introduction"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/aqsa-bibi101">
+<img src="https://img.shields.io/badge/LinkedIn-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/Portfolio-4b7bec?style=for-the-badge&logo=vercel&logoColor=white" />
-</a><!--
-COMMENT:
-Yahan apna email add kar sakti ho.
-Example:
-<a href="aqsanoor65665e@gmail.com">
---></div>
 
- About Me
+<a href="mailto:aqsanoor65665e@gmail.com">
+<img src="https://img.shields.io/badge/Email-4b7bec?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-Hi! I'm Aqsa Noor, a Computer Science student passionate about learning programming and building practical projects.
+</div>
 
-I'm currently focusing on Web Development, especially frontend technologies, while also exploring backend development and modern programming tools.
+---
 
-const aqsa = {
-    name: "Aqsa Noor",
-    education: "BS Computer Science",
-    focus: "Web Development",
+## 👩‍💻 About Me
 
-    skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Node.js",
-        "Git",
-        "GitHub"
-    ],
+Hi! I'm **Aqsa Noor**, a **BS Computer Science student** passionate about learning programming and building practical projects.
 
-    interests: [
-        "Frontend Development",
-        "Web Development",
-        "Programming",
-        "Artificial Intelligence"
-    ],
+I'm currently focusing on **Web Development**, especially frontend technologies, while also exploring backend development and modern programming tools.
 
-    currentlyLearning: [
-        "JavaScript",
-        "Node.js",
-        "Git & GitHub"
-    ],
+- 🎓 Studying **BS Computer Science**
+- 💻 Learning **Web Development**
+- 🌐 Interested in **Frontend Development**
+- 🤖 Exploring **Artificial Intelligence**
+- 🚀 Building practical projects while learning
+- 🌱 Currently improving my **JavaScript, Node.js, Git & GitHub** skills
 
-    goal: "To become a skilled software developer"
-};
+---
 
+## 🛠️ Tech Stack
 
+### 🌐 Web Development
 
- Tech Stack
+<div align="center">
 
- Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="HTML CSS JavaScript Node.js"/>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" /></div>💻 Programming & Development Tools
+</div>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark" /></div>---
+### 💻 Programming & Development Tools
 
- Projects
+<div align="center">
 
- My Calculator
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark" alt="Java Python Git GitHub VS Code"/>
 
-A simple calculator web project built using HTML, CSS and JavaScript.
+</div>
 
-Technologies:
+---
 
-"HTML" "CSS" "JavaScript"
+## 🚀 Projects
 
- "View Project" (https://github.com/Aqsanoor-khan/my-calculator)
+### 🧮 My Calculator
 
+A simple calculator web project built using **HTML, CSS and JavaScript**.
 
+**Technologies:**
 
- To-Do List Web App
+<img src="https://img.shields.io/badge/HTML-6c5ce7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+
+🔗 [View Project](https://github.com/Aqsanoor-khan/my-calculator)
+
+---
+
+### ✅ To-Do List Web App
 
 A task management web application that allows users to add tasks, mark them as completed, delete tasks and manage their task list.
 
-Technologies:
+**Technologies:**
 
-"HTML" "CSS" "JavaScript"
+<img src="https://img.shields.io/badge/HTML-6c5ce7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
 
- (https://github.com/Aqsanoor-khan/To-do-list-project)
+🔗 [View Project](https://github.com/Aqsanoor-khan/To-do-list-project)
 
+---
 
-
- Personal Portfolio
+### 🌐 Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects and learning journey.
 
-Technologies:
+**Technologies:**
 
-"HTML" "CSS" "JavaScript"
+<img src="https://img.shields.io/badge/HTML-6c5ce7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
 
-"Live Portfolio" (https://github.com/Aqsanoor-khan/personal-portfolio)
+🔗 [View Portfolio](https://github.com/Aqsanoor-khan/personal-portfolio)
 
+---
 
+## 📚 Currently Learning
 
- Currently Learning
+<div align="center">
 
-<div align="center"><img src="https://img.shields.io/badge/HTML-6c5ce7?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" />
-<img src="https://img.shields.io/badge/Node.js-6c5ce7?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-4b7bec?style=for-the-badge&logo=git&logoColor=white" /></div>---
+<img src="https://img.shields.io/badge/HTML-6c5ce7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-6c5ce7?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-4b7bec?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub"/>
 
- My Goals
+</div>
+
+---
+
+## 🎯 My Goals
 
 - 🌱 Improve my programming skills
 - 💻 Build more real-world projects
@@ -115,31 +121,32 @@ Technologies:
 - 📚 Keep learning new technologies
 - 🔨 Turn ideas into practical projects
 
+---
 
+## 🔗 Connect With Me
 
-📊 GitHub Stats
+<div align="center">
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a29bfe&icon_color=6c5ce7&text_color=c9d1d9" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" /><br/><br/>
+<a href="https://github.com/Aqsanoor-khan">
+<img src="https://img.shields.io/badge/GitHub-Aqsanoor--khan-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Aqsanoor-Kha&hide_border=true&background=0d1117&ring=a29bfe&fire=6c5ce7&currStreakLabel=a29bfe&sideLabels=a29bfe&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=6c5ce7" /></div>---
+<a href="https://www.linkedin.com/in/aqsa-bibi101">
+<img src="https://img.shields.io/badge/LinkedIn-Aqsa%20Noor-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
- GitHub Activity
+<a href="mailto:aqsanoor65665e@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-4b7bec?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aqsanoor-Khan&hide_border=true&bg_color=0d1117&color=a29bfe&line=6c5ce7&point=ffffff&area=true" width="100%" /></div>---
+</div>
 
+---
 
- Connect With Me
+<div align="center">
 
-<!--
-COMMENT:
-Jab links available hon to yahan actual links add karna.
--->- 💻 GitHub: https://github.com/Aqsanoor-khan/Aqsanoor-khan 
-- 💼 LinkedIn:https://www.linkedin.com/in/aqsa-bibi101?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🌐 Portfolio: https://github.com/Aqsanoor-khan/personal-portfolio
-- 📧 Email: aqsanoor65665@gmail.com
+### 💜 Thanks for visiting my profile!
 
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
-
-<div align="center"> Thanks for visiting my profile! 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,50:6c5ce7,100:0d1117&height=110&section=footer" width="100%"/></div>
+</div>
