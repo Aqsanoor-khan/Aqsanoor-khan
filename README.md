@@ -133,24 +133,13 @@ Portfolio complete hone ke baad yahan live website ka link add karna.
 
 📊 GitHub Stats
 
-<!--
-COMMENT:
-IMPORTANT:
-Neeche "Aqsanoor-Khan" ko apne ACTUAL GitHub username se replace karna.
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a29bfe&icon_color=6c5ce7&text_color=c9d1d9" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" /><br/><br/>
 
-Example:
-Agar tumhara username "AqsaNoor123" hai,
-to YOUR_GITHUB_USERNAME ki jagah AqsaNoor123 likhna.
---><div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a29bfe&icon_color=6c5ce7&text_color=c9d1d9" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" /><br/><br/>
+<img src="https://streak-stats.demolab.com?user=Aqsanoor-Kha&hide_border=true&background=0d1117&ring=a29bfe&fire=6c5ce7&currStreakLabel=a29bfe&sideLabels=a29bfe&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=6c5ce7" /></div>---
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&ring=a29bfe&fire=6c5ce7&currStreakLabel=a29bfe&sideLabels=a29bfe&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=6c5ce7" /></div>---
+ GitHub Activity
 
-📈 GitHub Activity
-
-<!--
-COMMENT:
-Yahan bhi YOUR_GITHUB_USERNAME ko apne actual GitHub username se replace karna.
---><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=0d1117&color=a29bfe&line=6c5ce7&point=ffffff&area=true" width="100%" /></div>---
+><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aqsanoor-Khan&hide_border=true&bg_color=0d1117&color=a29bfe&line=6c5ce7&point=ffffff&area=true" width="100%" /></div>---
 
 
  Connect With Me
