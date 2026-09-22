@@ -33,29 +33,29 @@ I'm currently focusing on **Web Development**, especially frontend technologies,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🌐 Web Development
+###  Web Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="HTML CSS JavaScript Node.js"/>
+<picture><img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="HTML CSS JavaScript Node.js"/></picture>
 
 </div>
 
-### 💻 Programming & Development Tools
+###  Programming & Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark" alt="Java Python Git GitHub VS Code"/>
+<picture><img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark" alt="Java Python Git GitHub VS Code"/></picture>
 
 </div>
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🧮 My Calculator
+###  My Calculator
 
 A simple calculator web project built using **HTML, CSS and JavaScript**.
 
@@ -69,7 +69,7 @@ A simple calculator web project built using **HTML, CSS and JavaScript**.
 
 ---
 
-### ✅ To-Do List Web App
+###  To-Do List Web App
 
 A task management web application that allows users to add tasks, mark them as completed, delete tasks and manage their task list.
 
@@ -83,7 +83,7 @@ A task management web application that allows users to add tasks, mark them as c
 
 ---
 
-### 🌐 Personal Portfolio
+###  Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects and learning journey.
 
@@ -97,7 +97,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
@@ -111,7 +111,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 - 🌱 Improve my programming skills
 - 💻 Build more real-world projects
@@ -147,6 +147,6 @@ A personal portfolio website showcasing my skills, projects and learning journey
 
 ### 💜 Thanks for visiting my profile!
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+**Keep Learning • Keep Building • Keep Growing **
 
 </div>
