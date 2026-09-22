@@ -52,7 +52,7 @@ const aqsa = {
     goal: "To become a skilled software developer"
 };
 
----
+
 
  Tech Stack
 
@@ -76,11 +76,11 @@ Technologies:
 COMMENT:
 Jab Calculator ki GitHub repository ready ho,
 neeche YOUR_CALCULATOR_REPO_LINK ki jagah uska link add karna.
--->🔗 "View Project" (YOUR_CALCULATOR_REPO_LINK)
+--> "View Project" (YOUR_CALCULATOR_REPO_LINK)
 
 ---
 
-✅ To-Do List Web App
+ To-Do List Web App
 
 A task management web application that allows users to add tasks, mark them as completed, delete tasks and manage their task list.
 
@@ -92,9 +92,9 @@ Technologies:
 COMMENT:
 Jab To-Do List project GitHub par upload ho jaye,
 yahan uska repository link add karna.
--->🔗 "View Project" (YOUR_TODO_REPO_LINK)
+--> "View Project" (YOUR_TODO_REPO_LINK)
 
----
+
 
  Personal Portfolio
 
@@ -107,9 +107,9 @@ Technologies:
 <!--
 COMMENT:
 Portfolio complete hone ke baad yahan live website ka link add karna.
--->🔗 "Live Portfolio" (YOUR_PORTFOLIO_LINK)
+--> "Live Portfolio" (YOUR_PORTFOLIO_LINK)
 
----
+
 
  Currently Learning
 
@@ -129,7 +129,7 @@ Portfolio complete hone ke baad yahan live website ka link add karna.
 - 📚 Keep learning new technologies
 - 🔨 Turn ideas into practical projects
 
----
+
 
 📊 GitHub Stats
 
@@ -163,7 +163,7 @@ Jab links available hon to yahan actual links add karna.
 - 🌐 Portfolio: YOUR_PORTFOLIO_LINK
 - 📧 Email: aqsanoor65665@gmail.com
 
----
+
 
 <div align="center"> Thanks for visiting my profile! 
 
