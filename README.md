@@ -31,7 +31,7 @@ I'm currently focusing on **Web Development**, especially frontend technologies,
 - 🚀 Building practical projects while learning
 - 🌱 Currently improving my **JavaScript, Node.js, Git & GitHub** skills
 
----
+
 
 ##  Tech Stack
 
