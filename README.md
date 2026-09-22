@@ -1,10 +1,7 @@
 <div align="center"><!--HEADER--><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c5ce7,100:a29bfe&height=190&section=header&text=Aqsa%20Noor&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/><!--TYPING TEXT--><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%8C%90;Frontend+Development+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" /><br/><br/>
 
-<!--SOCIAL LINKS--><!--
-COMMENT:
-Jab tumhara LinkedIn profile ready ho jaye,
-YOUR_LINKEDIN_LINK ki jagah apna actual LinkedIn URL lagana.
---><a href="https://www.linkedin.com/in/aqsa-bibi101?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<!--SOCIAL LINKS-->
+<a href="https://www.linkedin.com/in/aqsa-bibi101?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="">
@@ -72,11 +69,7 @@ Technologies:
 
 "HTML" "CSS" "JavaScript"
 
-<!--
-COMMENT:
-Jab Calculator ki GitHub repository ready ho,
-neeche YOUR_CALCULATOR_REPO_LINK ki jagah uska link add karna.
---> "View Project" (YOUR_CALCULATOR_REPO_LINK)
+ "View Project" (https://github.com/Aqsanoor-khan/my-calculator)
 
 
 
@@ -88,11 +81,7 @@ Technologies:
 
 "HTML" "CSS" "JavaScript"
 
-<!--
-COMMENT:
-Jab To-Do List project GitHub par upload ho jaye,
-yahan uska repository link add karna.
---> "View Project" (YOUR_TODO_REPO_LINK)
+ (https://github.com/Aqsanoor-khan/To-do-list-project)
 
 
 
@@ -104,10 +93,7 @@ Technologies:
 
 "HTML" "CSS" "JavaScript"
 
-<!--
-COMMENT:
-Portfolio complete hone ke baad yahan live website ka link add karna.
---> "Live Portfolio" (YOUR_PORTFOLIO_LINK)
+"Live Portfolio" (https://github.com/Aqsanoor-khan/personal-portfolio)
 
 
 
@@ -149,7 +135,7 @@ COMMENT:
 Jab links available hon to yahan actual links add karna.
 -->- 💻 GitHub: https://github.com/Aqsanoor-khan/Aqsanoor-khan 
 - 💼 LinkedIn:https://www.linkedin.com/in/aqsa-bibi101?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🌐 Portfolio: YOUR_PORTFOLIO_LINK
+- 🌐 Portfolio: https://github.com/Aqsanoor-khan/personal-portfolio
 - 📧 Email: aqsanoor65665@gmail.com
 
 
