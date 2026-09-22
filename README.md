@@ -1,25 +1,22 @@
-<div align="center"><!-- ===================== HEADER ===================== --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c5ce7,100:a29bfe&height=190&section=header&text=Aqsa%20Noor&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/><!-- ===================== TYPING TEXT ===================== --><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%8C%90;Frontend+Development+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" /><br/><br/>
+<div align="center"><!--HEADER--><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c5ce7,100:a29bfe&height=190&section=header&text=Aqsa%20Noor&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/><!--TYPING TEXT--><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%8C%90;Frontend+Development+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" /><br/><br/>
 
-<!-- ===================== SOCIAL LINKS ===================== --><!--
+<!--SOCIAL LINKS--><!--
 COMMENT:
 Jab tumhara LinkedIn profile ready ho jaye,
 YOUR_LINKEDIN_LINK ki jagah apna actual LinkedIn URL lagana.
---><a href="YOUR_LINKEDIN_LINK">
+--><a href="https://www.linkedin.com/in/aqsa-bibi101?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><!--
-COMMENT:
-Jab tumhara portfolio website ready ho,
-YOUR_PORTFOLIO_LINK ki jagah apna actual portfolio URL lagana.
---><a href="YOUR_PORTFOLIO_LINK">
+</a>
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-4b7bec?style=for-the-badge&logo=vercel&logoColor=white" />
 </a><!--
 COMMENT:
 Yahan apna email add kar sakti ho.
 Example:
-<a href="mailto:yourname@gmail.com">
+<a href="aqsanoor65665e@gmail.com">
 --></div>---
 
-👩‍💻 About Me
+ About Me
 
 Hi! I'm Aqsa Noor, a Computer Science student passionate about learning programming and building practical projects.
 
@@ -52,22 +49,22 @@ const aqsa = {
         "Git & GitHub"
     ],
 
-    goal: "To become a skilled software developer 🚀"
+    goal: "To become a skilled software developer"
 };
 
 ---
 
-🛠️ Tech Stack
+ Tech Stack
 
-🌐 Web Development
+ Web Development
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" /></div>💻 Programming & Development Tools
 
 <div align="center"><img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark" /></div>---
 
-🚀 Projects
+ Projects
 
-🧮 My Calculator
+ My Calculator
 
 A simple calculator web project built using HTML, CSS and JavaScript.
 
@@ -99,7 +96,7 @@ yahan uska repository link add karna.
 
 ---
 
-🌐 Personal Portfolio
+ Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects and learning journey.
 
@@ -114,7 +111,7 @@ Portfolio complete hone ke baad yahan live website ka link add karna.
 
 ---
 
-📚 Currently Learning
+ Currently Learning
 
 <div align="center"><img src="https://img.shields.io/badge/HTML-6c5ce7?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" />
@@ -122,7 +119,7 @@ Portfolio complete hone ke baad yahan live website ka link add karna.
 <img src="https://img.shields.io/badge/Node.js-6c5ce7?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-4b7bec?style=for-the-badge&logo=git&logoColor=white" /></div>---
 
-🎯 My Goals
+ My Goals
 
 - 🌱 Improve my programming skills
 - 💻 Build more real-world projects
@@ -139,7 +136,7 @@ Portfolio complete hone ke baad yahan live website ka link add karna.
 <!--
 COMMENT:
 IMPORTANT:
-Neeche "YOUR_GITHUB_USERNAME" ko apne ACTUAL GitHub username se replace karna.
+Neeche "Aqsanoor-Khan" ko apne ACTUAL GitHub username se replace karna.
 
 Example:
 Agar tumhara username "AqsaNoor123" hai,
@@ -155,26 +152,19 @@ COMMENT:
 Yahan bhi YOUR_GITHUB_USERNAME ko apne actual GitHub username se replace karna.
 --><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=0d1117&color=a29bfe&line=6c5ce7&point=ffffff&area=true" width="100%" /></div>---
 
-🐍 Contribution Snake
 
-<!--
-COMMENT:
-Ye Contribution Snake baad mein GitHub Actions ke through setup ki ja sakti hai.
-Abhi agar setup nahi kiya to is section ko temporarily remove bhi kar sakti ho.
---><div align="center"><img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="GitHub Contribution Snake" /></div>---
-
-📫 Connect With Me
+ Connect With Me
 
 <!--
 COMMENT:
 Jab links available hon to yahan actual links add karna.
--->- 💻 GitHub: YOUR_GITHUB_PROFILE_LINK
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
+-->- 💻 GitHub: https://github.com/Aqsanoor-khan/Aqsanoor-khan 
+- 💼 LinkedIn:https://www.linkedin.com/in/aqsa-bibi101?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🌐 Portfolio: YOUR_PORTFOLIO_LINK
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: aqsanoor65665@gmail.com
 
 ---
 
-<div align="center">✨ Thanks for visiting my profile! ✨
+<div align="center"> Thanks for visiting my profile! 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,50:6c5ce7,100:0d1117&height=110&section=footer" width="100%"/></div>
