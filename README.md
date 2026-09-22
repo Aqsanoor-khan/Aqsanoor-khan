@@ -14,7 +14,7 @@ COMMENT:
 Yahan apna email add kar sakti ho.
 Example:
 <a href="aqsanoor65665e@gmail.com">
---></div>---
+--></div>
 
  About Me
 
@@ -78,7 +78,7 @@ Jab Calculator ki GitHub repository ready ho,
 neeche YOUR_CALCULATOR_REPO_LINK ki jagah uska link add karna.
 --> "View Project" (YOUR_CALCULATOR_REPO_LINK)
 
----
+
 
  To-Do List Web App
 
