@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c5ce7,100:a29bfe&height=190&section=header&text=Aqsa%20Noor&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="Aqsa Noor header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%8C%90;Frontend+Development+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%F0%9F%8C%B1" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%8C%90;Frontend+Development+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Building+Projects+%26+Learning+Every+Day+%F0%9F%93%98" alt="Typing introduction"/>
 
 <br><br>
 
@@ -116,7 +116,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 - 👩‍💻 Improve my programming skills
 - 💻 Build more real-world projects
 - 🌐 Become a strong Web Developer
-- 🚀 Improve my frontend development skills
+- ✅ Improve my frontend development skills
 - 🤖 Explore Artificial Intelligence
 - 📚 Keep learning new technologies
 - 🔨 Turn ideas into practical projects
