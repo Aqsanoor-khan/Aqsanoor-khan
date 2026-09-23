@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Hi! I'm **Aqsa Noor**, a **BS Computer Science student** passionate about learning programming and building practical projects.
 
@@ -29,7 +29,7 @@ I'm currently focusing on **Web Development**, especially frontend technologies,
 - 🌐 Interested in **Frontend Development**
 - 🤖 Exploring **Artificial Intelligence**
 - 🚀 Building practical projects while learning
-- 🌱 Currently improving my **JavaScript, Node.js, Git & GitHub** skills
+- 👩‍💻 Currently improving my **JavaScript, Node.js, Git & GitHub** skills
 
 
 
@@ -65,7 +65,7 @@ A simple calculator web project built using **HTML, CSS and JavaScript**.
 <img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
 
-🔗 [View Project](https://github.com/Aqsanoor-khan/my-calculator)
+ [View Project](https://github.com/Aqsanoor-khan/my-calculator)
 
 ---
 
@@ -79,7 +79,7 @@ A task management web application that allows users to add tasks, mark them as c
 <img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
 
-🔗 [View Project](https://github.com/Aqsanoor-khan/To-do-list-project)
+ [View Project](https://github.com/Aqsanoor-khan/To-do-list-project)
 
 ---
 
@@ -93,7 +93,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 <img src="https://img.shields.io/badge/CSS-4b7bec?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-a29bfe?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
 
-🔗 [View Portfolio](https://github.com/Aqsanoor-khan/personal-portfolio)
+ [View Portfolio](https://github.com/Aqsanoor-khan/personal-portfolio)
 
 ---
 
@@ -113,7 +113,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 
 ##  My Goals
 
-- 🌱 Improve my programming skills
+- 👩‍💻 Improve my programming skills
 - 💻 Build more real-world projects
 - 🌐 Become a strong Web Developer
 - 🚀 Improve my frontend development skills
@@ -123,7 +123,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -145,7 +145,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 💜 Thanks for visiting my profile! 💜
 
 **Keep Learning • Keep Building • Keep Growing **
 
